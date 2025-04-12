@@ -65,7 +65,7 @@ const Hero = () => {
               that enhance usability and performance.
             </motion.p>
             <motion.a
-              href="resume.pdf"
+              href="/NanaNtodiCV.pdf"
               target="_blank"
               rel="noopener noreferrer"
               download
